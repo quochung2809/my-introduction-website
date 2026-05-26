@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+  background-color: lightgray;
+}
+h1 {
+  color: darkred;
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  color: navy;
+}
